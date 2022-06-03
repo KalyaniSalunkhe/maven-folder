@@ -1,0 +1,10 @@
+package Com.cg.demo.ex;
+
+public class ArrayExDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,10 @@
+package Com.cg.demo.ex;
+
+public class VotingDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
